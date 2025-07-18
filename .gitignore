@@ -1,0 +1,9 @@
+package-lock.json
+package.json
+node_modules
+datasets/test/ATR/*.jpg
+datasets/test/C130/*.jpg
+datasets/train/C130/*.jpg
+datasets/train/ATR/*.jpg
+datasets/val/C130/*.jpg
+datasets/val/ATR/*.jpg
